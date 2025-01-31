@@ -1,5 +1,3 @@
-# .github
-
 # 🥔 Welcome to PotatoesTeam! 🥔
 
 We are the mighty spuds of success, bringing excellence to everything we do!
